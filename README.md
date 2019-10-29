@@ -2,4 +2,4 @@
 
 ![profile](profile.png)
 
-## Magento
+## Magento *2*
